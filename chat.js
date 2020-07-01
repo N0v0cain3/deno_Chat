@@ -10,6 +10,7 @@ import { v4 } from "https://deno.land/std@0.58.0/uuid/mod.ts";
  *    ws: WebSocket
  * }
  */
+*/
 const usersMap = new Map();
 
 /**
