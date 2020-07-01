@@ -21,6 +21,14 @@
 
 
 ## Screenshots
+<br>
+<p align="center"><img src="https://github.com/N0v0cain3/deno_Chat/blob/master/screenshots/deno1.PNGg" alt="logo" width="300"/></a>
+</p>
+<br>
+<br>
+<p align="center"><img src="https://github.com/N0v0cain3/deno_Chat/blob/master/screenshots/deno2.PNGg" alt="logo" width="300"/></a>
+</p>
+<br>
 
 
 ## Instructions to run
