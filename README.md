@@ -22,11 +22,11 @@
 
 ## Screenshots
 <br>
-<p align="center"><img src="https://github.com/N0v0cain3/deno_Chat/blob/master/screenshots/deno1.PNG" alt="logo" width="300"/></a>
+<p align="center"><img src="https://github.com/N0v0cain3/deno_Chat/blob/master/screenshots/deno1.PNG" alt="logo" width="500"/></a>
 </p>
 <br>
 <br>
-<p align="center"><img src="https://github.com/N0v0cain3/deno_Chat/blob/master/screenshots/deno2.PNG" alt="logo" width="300"/></a>
+<p align="center"><img src="https://github.com/N0v0cain3/deno_Chat/blob/master/screenshots/deno2.PNG" alt="logo" width="500"/></a>
 </p>
 <br>
 
