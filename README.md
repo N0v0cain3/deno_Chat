@@ -34,7 +34,7 @@
 ## Instructions to run
 
 ```
-$ git clone https://github.com/N0v0cain3/
+$ git clone https://github.com/N0v0cain3/deno_Chat.git
 $ cd <Project>
 $ deno run --allow-net --allow-read server.ts
 ```
